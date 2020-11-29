@@ -1,4 +1,4 @@
-## Welcome to LiHao's GitHub Pages
+## LiHao的博客
 
 这是我的第一个博客网站，等什么时候有时间了再整
 
