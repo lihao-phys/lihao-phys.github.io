@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages111111111111111111111111111
+## Welcome to LiHao's GitHub Pages
+
+这是我的第一个博客网站，等什么时候有时间了再整
 
 You can use the [editor on GitHub](https://github.com/lihao-phys/lihao-phys.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
